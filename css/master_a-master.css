@@ -1,0 +1,212 @@
+#u174
+{
+	position: absolute;
+}
+
+#u175
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #FFFFFF;
+	-moz-border-radius: 15px 15px 0px 15px ;
+	-webkit-border-radius: 15px 15px 0px 15px ;
+	-khtml-border-radius: 15px 15px 0px 15px ;
+	border-radius: 15px 15px 0px 15px ;
+	position: relative;
+}
+
+#u176-8
+{
+	font-size: 12px;
+	line-height: 18px;
+	color: #6B6B6B;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	position: relative;
+}
+
+#u176-2
+{
+	font-style: italic;
+}
+
+#u195
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C4C4C4;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u195:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #999999;
+}
+
+#u195.PamphletThumbSelected
+{
+	background-color: #6B6B6B;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u118
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u149-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-size: 28px;
+	line-height: 34px;
+	color: #D1D1D1;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#u150-7
+{
+	font-size: 14px;
+	color: #D1D1D1;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+}
+
+#buttonu69
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #999999;
+	background-color: rgba(52, 52, 52, 0.5);
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+	-pie-background: rgba(52, 52, 52, 0.5);
+}
+
+#pbuttonu69:hover #buttonu69
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	background-image: none;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #55BD80;
+	background-color: transparent;
+	-pie-background: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+}
+
+#pbuttonu69.ButtonSelected #buttonu69
+{
+	-pie-box-shadow: none;
+	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: #999999;
+	background-color: rgba(52, 52, 52, 0.5);
+	-pie-background: none;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+}
+
+#u71-4
+{
+	background-color: transparent;
+	font-size: 15px;
+	letter-spacing: 1px;
+	line-height: 18px;
+	text-align: center;
+	color: #D1D1D1;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u94,#pamphletu169,#u194,#pbuttonu69:hover #u71-4
+{
+	position: relative;
+}
+
+#u149-4:hover p,#pbuttonu69:hover #u71-4 p
+{
+	color: #55BD80;
+	visibility: inherit;
+}
+
+#pbuttonu69.ButtonSelected #u71-4 p
+{
+	color: #222325;
+	visibility: inherit;
+}
+
+#u72
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-khtml-border-radius: 100px;
+	border-radius: 100px;
+	background: transparent url("../images/apple19-u72-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/apple19.png") no-repeat center center;
+	background-color: transparent;
+	background-size: contain !important;
+}
+
+#pbuttonu69:hover #u72
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: relative;
+	background-size: contain !important;
+}
+
+#pbuttonu69.ButtonSelected #u72
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: relative;
+	background-size: contain !important;
+}
+
+#pbuttonu69.ButtonSelected #u71-4,#pbuttonu69 #u71-4,#pbuttonu69 #u72
+{
+	position: relative;
+}
+
