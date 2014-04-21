@@ -3,4 +3,4 @@ bulkDownloader
 
 bulkDownloader on mac, a batch downloading tool
 
-![](images / screen shot 2014-04-17 at 52506 pm.jpg)
+![](http://airbob.github.io/bulkDownloader/images/screen%20shot%202014-04-17%20at%2052506%20pm.jpg)
